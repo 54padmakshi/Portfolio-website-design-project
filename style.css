@@ -453,3 +453,57 @@ hr{
     font-size: xxx-large;
     font-weight: 400;
 }
+.next{
+    position: absolute;
+width: 575px;
+height: 359px;
+left: calc(50% - 575px/2 - 272.5px);
+top: 35%;
+
+/* Heading-2 */
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 117%;
+/* or 37px */
+
+letter-spacing: -0.03em;
+
+/* Main Gray */
+
+color: #606060;
+
+}
+.img1{
+    position: absolute;
+    width: 500px;
+    height: 800px;
+    left: calc(50% - 421px/2 + 349.5px);
+    top: 500px;
+    
+    background: url(.jpg);
+}
+.am{
+    position: absolute;
+width: 347px;
+height: 71px;
+left: calc(50% - 347px/2 - 386.5px);
+top: 70%;
+
+/* Heading-2 */
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 117%;
+/* or 37px */
+
+letter-spacing: -0.03em;
+
+/* Main Black */
+
+color: #181717;
+}
